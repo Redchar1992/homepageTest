@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <META http-equiv="Cache-Control" content="no-store, no-cache, must-revalidate">
+    <META http-equiv="Pragma" content="no-cache"> 
+</head>
+<body style="margin: 0;">
+    <script type="text/javascript">
+        var oldOrientation = window.orientation;
+        var cpro_id = "u2866978";
+        window.addEventListener("load", function(event) {
+            parent.document.getElementById("baiduAds").style.height = document.body.clientHeight + "px";
+        });
+        window.addEventListener("orientationchange", function(event) {
+            if (Math.abs(oldOrientation) + Math.abs(window.orientation) != 180) {
+                parent.document.getElementById("baiduAds").style.height = document.body.clientHeight + "px";
+                parent.document.getElementById("baiduAds").src = "dist/ads/baiduAds.html?" + (new Date()).getTime();
+            }
+            oldOrientation = window.orientation;
+        });
+    </script>
+    <script type="text/javascript" src="http://cpro.baidustatic.com/cpro/ui/cm.js"></script>
+</body>

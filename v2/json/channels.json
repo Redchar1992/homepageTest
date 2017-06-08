@@ -1,0 +1,98 @@
+[
+    {
+        "channelName": "推荐",
+        "sourceId": "101",
+        "sourceName": "新浪",
+        "sourceParams": ["top"]
+    },
+    {
+        "channelName": "新闻",
+        "sourceId": "101",
+        "sourceName": "新浪",
+        "sourceParams": ["news"]
+    },
+    {
+        "channelName": "娱乐",
+        "sourceId": "101",
+        "sourceName": "新浪",
+        "sourceParams": ["ent"]
+    },
+    {
+        "channelName": "体育",
+        "sourceId": "101",
+        "sourceName": "新浪",
+        "sourceParams": ["sports"]
+    },
+    {
+        "channelName": "视频",
+        "sourceId": "104",
+        "sourceName": "秒拍",
+        "sourceParams": [""]
+    },
+    {
+        "channelName": "社会",
+        "sourceId": "101",
+        "sourceName": "新浪",
+        "sourceParams": ["society"]
+    },
+    {
+        "channelName": "财经",
+        "sourceId": "101",
+        "sourceName": "新浪",
+        "sourceParams": ["finance"]
+    },
+    {
+        "channelName": "科技",
+        "sourceId": "101",
+        "sourceName": "新浪",
+        "sourceParams": ["tech"]
+    },
+    {
+        "channelName": "军事",
+        "sourceId": "103",
+        "sourceName": "迷彩虎",
+        "sourceParams": [""]
+    },
+    {
+        "channelName": "时尚",
+        "sourceId": "101",
+        "sourceName": "新浪",
+        "sourceParams": ["fashion"]
+    },
+    {
+        "channelName": "悦读",
+        "sourceId": "101",
+        "sourceName": "新浪",
+        "sourceParams": ["yd"]
+    },
+    {
+        "channelName": "数码",
+        "sourceId": "101",
+        "sourceName": "新浪",
+        "sourceParams": ["dig"]
+    },
+    {
+        "channelName": "健康",
+        "sourceId": "101",
+        "sourceName": "新浪",
+        "sourceParams": ["health"]
+    },
+    {
+        "channelName": "搞笑",
+        "sourceId": "101",
+        "sourceName": "新浪",
+        "sourceParams": ["joke"]
+    },
+    {
+        "channelName": "汽车",
+        "sourceId": "101",
+        "sourceName": "新浪",
+        "sourceParams": ["auto"]
+    },
+    {
+        "channelName": "游戏",
+        "sourceId": "101",
+        "sourceName": "新浪",
+        "sourceParams": ["game"]
+    }
+]

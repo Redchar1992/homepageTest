@@ -1,0 +1,172 @@
+{
+    "0": {
+        "report": "晴",
+        "image": "../v2/weather/0.png",
+        "night": "../v2/weather/0_night.png"
+    },
+    "1": {
+        "report": "多云",
+        "image": "../v2/weather/1.png",
+        "night": "../v2/weather/1_night.png"
+    },
+    "2": {
+        "report": "阴",
+        "image": "../v2/weather/2.png",
+        "night": "../v2/weather/2.png"
+    },
+    "3": {
+        "report": "阵雨",
+        "image": "../v2/weather/3.png",
+        "night": "../v2/weather/3_night.png"
+    },
+    "4": {
+        "report": "雷阵雨",
+        "image": "../v2/weather/4.png",
+        "night": "../v2/weather/4.png"
+    },
+    "5": {
+        "report": "雷阵雨",
+        "image": "../v2/weather/5.png",
+        "night": "../v2/weather/5.png"
+    },
+    "6": {
+        "report": "雨夹雪",
+        "image": "../v2/weather/6.png",
+        "night": "../v2/weather/7.png"
+    },
+    "7": {
+        "report": "小雨",
+        "image": "../v2/weather/7.png",
+        "night": "../v2/weather/7.png"
+    },
+    "8": {
+        "report": "中雨",
+        "image": "../v2/weather/8.png",
+        "night": "../v2/weather/8.png"
+    },
+    "9": {
+        "report": "大雨",
+        "image": "../v2/weather/9.png",
+        "night": "../v2/weather/9.png"
+    },
+    "10": {
+        "report": "暴雨",
+        "image": "../v2/weather/10.png",
+        "night": "../v2/weather/10.png"
+    },
+    "11": {
+        "report": "大暴雨",
+        "image": "../v2/weather/11.png",
+        "night": "../v2/weather/11.png"
+    },
+    "12": {
+        "report": "大暴雨",
+        "image": "../v2/weather/12.png",
+        "night": "../v2/weather/12.png"
+    },
+    "13": {
+        "report": "阵雪",
+        "image": "../v2/weather/13.png",
+        "night": "../v2/weather/13_night.png"
+    },
+    "14": {
+        "report": "小雪",
+        "image": "../v2/weather/14.png",
+        "night": "../v2/weather/14.png"
+    },
+    "15": {
+        "report": "中雪",
+        "image": "../v2/weather/0.png",
+        "night": "../v2/weather/0.png"
+    },
+    "16": {
+        "report": "大雪",
+        "image": "../v2/weather/16.png",
+        "night": "../v2/weather/16.png"
+    },
+    "17": {
+        "report": "暴雪",
+        "image": "../v2/weather/17.png",
+        "night": "../v2/weather/17.png"
+    },
+    "18": {
+        "report": "雾",
+        "image": "../v2/weather/18.png",
+        "night": "../v2/weather/18_night.png"
+    },
+    "19": {
+        "report": "冻雨",
+        "image": "../v2/weather/19.png",
+        "night": "../v2/weather/19.png"
+    },
+    "20": {
+        "report": "沙尘暴",
+        "image": "../v2/weather/20.png",
+        "night": "../v2/weather/20.png"
+    },
+    "21": {
+        "report": "小雨",
+        "image": "../v2/weather/21.png",
+        "night": "../v2/weather/21.png"
+    },
+    "22": {
+        "report": "中雨",
+        "image": "../v2/weather/22.png",
+        "night": "../v2/weather/22.png"
+    },
+    "23": {
+        "report": "大雨",
+        "image": "../v2/weather/23.png",
+        "night": "../v2/weather/23.png"
+    },
+    "24": {
+        "report": "暴雨",
+        "image": "../v2/weather/24.png",
+        "night": "../v2/weather/24.png"
+    },
+    "25": {
+        "report": "大暴雨",
+        "image": "../v2/weather/25.png",
+        "night": "../v2/weather/25.png"
+    },
+    "26": {
+        "report": "中雪",
+        "image": "../v2/weather/26.png",
+        "night": "../v2/weather/26.png"
+    },
+    "27": {
+        "report": "大雪",
+        "image": "../v2/weather/27.png",
+        "night": "../v2/weather/27.png"
+    },
+    "28": {
+        "report": "暴雪",
+        "image": "../v2/weather/28.png",
+        "night": "../v2/weather/28.png"
+    },
+    "29": {
+        "report": "浮尘",
+        "image": "../v2/weather/29.png",
+        "night": "../v2/weather/29.png"
+    },
+    "30": {
+        "report": "扬沙",
+        "image": "../v2/weather/30.png",
+        "night": "../v2/weather/30.png"
+    },
+    "31": {
+        "report": "沙尘暴",
+        "image": "../v2/weather/31.png",
+        "night": "../v2/weather/31.png"
+    },
+    "53": {
+        "report": "霾",
+        "image": "../v2/weather/53.png",
+        "night": "../v2/weather/53_night.png"
+    },
+    "99": {
+        "report": "未知",
+        "image": "../v2/weather/99.png",
+        "night": "../v2/weather/99.png"
+    }
+}

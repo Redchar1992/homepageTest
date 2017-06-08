@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <META http-equiv="Cache-Control" content="no-store, no-cache, must-revalidate">
+    <META http-equiv="Pragma" content="no-cache"> 
+</head>
+<body style="margin: 0;">
+    <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+    <!-- M-Banner1-横 -->
+    <script>
+        var oldOrientation = window.orientation;
+        document.write('<ins class="adsbygoogle" data-ad-client="ca-pub-0676661022110159" data-ad-slot="7120829903" style="display:inline-block;width: 100%;height:90px"></ins>');
+        (adsbygoogle = window.adsbygoogle || []).push({});
+        window.addEventListener("load", function(event) {
+            parent.document.getElementById("googleAds").style.height = document.body.clientHeight + "px";
+        });
+        window.addEventListener("orientationchange", function(event) {
+            if (Math.abs(oldOrientation) + Math.abs(window.orientation) != 180) {
+                parent.document.getElementById("googleAds").style.height = document.body.clientHeight + "px";
+                parent.document.getElementById("googleAds").src = "dist/ads/googleAds.html?" + (new Date()).getTime();
+            }
+            oldOrientation = window.orientation;
+        });
+    </script>
+</body>
